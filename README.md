@@ -1,13 +1,14 @@
 ### Hi there 👋, my name is Simone
-#### I am an italian casual coder
+#### I am an italian full stack developer
 ![I am an italian casual coder](https://github.com/SimoRega/SimoRega/blob/main/archerFate.gif)
 
-I'm attending **IT Univesity in Cesena (Unibo)**. 
+I went to **IT Univesity in Cesena (Unibo)**. 
+I currently have got a Bachelor's degree in Computer Science and Engineering.
 I'm really into technology and computer's engineering. 
 Always up-to-date on newest computer's component. 
-I really like anime and videogames.
+I really like nature and japanese culture.
 
-Hope I'll learn some graphic and animation skills!
+Hope I'll learn some graphic and animation skills someday!
 
 Skills: C#, JAVA, Python, HTML
 
